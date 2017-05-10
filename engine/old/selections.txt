@@ -1,0 +1,1 @@
+v_PlayingGuitar_g01_c01_208, 42, 95, -1
